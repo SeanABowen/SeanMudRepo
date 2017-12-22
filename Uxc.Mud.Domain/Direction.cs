@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Uxc.Mud.Domain
 {
-    public class Class1
+    public class Direction
     {
+        public string Name { get; set; }
+        public string ID { get; set; }
     }
 }
