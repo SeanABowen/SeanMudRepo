@@ -8,5 +8,6 @@ namespace Uxc.Mud.Persistence
         public int Health { get; set; }
         public Area CurrentArea { get; set; }
         public DateTime Dob { get; set; }
+        public int Mana { get; set; }
     }
 }
