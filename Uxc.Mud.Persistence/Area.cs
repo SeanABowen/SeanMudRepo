@@ -10,7 +10,9 @@ namespace Uxc.Mud.Persistence
     {
         public string Name { get; set; }
         public string Description { get; set; }
-        public string ID { get; set; }
+        public string Id { get; set; }
+        public decimal Gold { get; set; }
+
 
         //when the Areas are randomly generated,
         //their respective actions are stored here
