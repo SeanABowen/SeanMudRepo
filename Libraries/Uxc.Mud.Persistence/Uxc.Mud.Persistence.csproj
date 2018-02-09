@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Area.cs" />
+    <Compile Include="Enemy.cs" />
     <Compile Include="GameAction.cs" />
     <Compile Include="GameService.cs" />
     <Compile Include="Map.cs" />
