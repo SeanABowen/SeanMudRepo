@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Uxc.Mud.Persistence
 {
@@ -11,10 +7,6 @@ namespace Uxc.Mud.Persistence
     public class GameAction
     {
         public Guid Id { get; set; }
-
-        sdfsdffdd
-
-            sdfsdf
 
         public string Label { get; set; }
 
