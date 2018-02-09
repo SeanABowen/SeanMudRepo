@@ -12,6 +12,8 @@ namespace Uxc.Mud.Persistence
     {
         public Guid Id { get; set; }
 
+        sdfsdffdd
+
         public string Label { get; set; }
 
         //Traveling is repeatable, but combat and 
