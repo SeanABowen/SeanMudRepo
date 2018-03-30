@@ -15,3 +15,5 @@ Nick - Web/Presentation Layer
 Tim - Domain/Business Logic Layer
 
 Gian - Persistance DB/ORM Layer
+
+Sean - The One Tester
