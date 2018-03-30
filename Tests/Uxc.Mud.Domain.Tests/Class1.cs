@@ -8,6 +8,6 @@ namespace Uxc.Mud.Domain.Tests
 {
     public class Class1
     {
-        Hey Sean this build will fail
+        //this build will pass
     }
 }
